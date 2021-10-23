@@ -1,5 +1,5 @@
-# Linux-Commands
-the most important Linux commands that you have to know! 
+# Linux Commands mindmap
+The most used Linux commands!
 
 # Xmind format
 https://www.xmind.net/m/K3SKii
